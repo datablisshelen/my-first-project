@@ -6,3 +6,6 @@ h2 {
     color: orangered;
     font-family: 'Arial', sans-serif;
 }
+p {
+  font-weight: bold;
+}
